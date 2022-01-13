@@ -592,7 +592,9 @@ body {
 
 
     .footer p{
-        border: solid red 1px;
+        width: 60%;
+        margin-left: 20%;
+        padding-top: 0;
         padding-top: 2rem;
         
     }
@@ -601,17 +603,11 @@ body {
         flex-direction: column;
         justify-content: space-evenly;
         align-items: center;
-        border: solid red 1px;
         padding-top: 0;
         height: 70%;
     }
 
-    .footer p {
-        border: solid red 1px;
-        width: 60%;
-        margin-left: 20%;
-        padding-top: 0;
-    }
+    
   }
 
   
